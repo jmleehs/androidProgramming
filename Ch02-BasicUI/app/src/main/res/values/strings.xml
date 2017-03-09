@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ch02-BasicUI</string>
+    <string name="button_clicked_msg">Button Clicked</string>
+</resources>
